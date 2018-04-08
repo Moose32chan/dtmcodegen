@@ -1,0 +1,5 @@
+#1.0 - First Public Build Released
+#1.1
++Placeholder format updated for codes
++Now able to fetch codes from other pages
+-DTM4U Support Pushed Back To Future Update
